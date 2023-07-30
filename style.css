@@ -1,0 +1,101 @@
+.logo img{
+    width: 100px;
+}
+.headerSection{
+    background-color: #101446;
+}
+.menu ul{
+    text-align: right;
+    margin: -4px;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu ul li a{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    padding: 10px 23px;
+    text-decoration: none;
+    border-left: 1px solid #19af97;
+    line-height: 47px;
+}
+.menu ul li a:hover{
+    color:#19af97
+}
+
+/* hero section start ____ hero section start */
+
+.herotext{
+    background-image: url(https://i.ibb.co/LkSfh16/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+.herotext p{
+    color: white;
+    margin: 31px 0;
+}
+
+/* team section start ____ team section start */
+
+.teamSection{
+    text-align: center;
+    background-color: #bac1f3;
+    padding: 50px 0;
+}
+.teamMans{
+    padding: 37px 69px;
+
+}
+.teamMans img{
+    width: 30%;
+}
+
+/* about section start ____ about section start */
+
+.aboutSection{
+    text-align: left;
+    background-color: #c2d4ea;
+    padding: 50px 0;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.about{
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.list ul li{
+    list-style: none;
+    line-height: 37px;
+}
+.listp{
+    margin-top: 37px;
+}
+.pragraph{
+    padding: 20px;
+    font-size: 18px;
+}
+
+/* contact section start ____ contact section start */
+
+.contactSection{
+    padding: 50px 0;
+}
+
+/* footer section start ____ footer section start */
+
+.footerSection{
+    background-color: #0062d3;
+    color: white;
+    padding: 20px 0;
+}
+.footer p{
+    margin-bottom: -4px;
+}
